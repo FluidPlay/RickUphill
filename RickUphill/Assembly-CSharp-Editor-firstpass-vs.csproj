@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{D0A875F2-FC94-218C-06D8-165A60AB20FF}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp-Editor-firstpass</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_4_6_0;UNITY_4_6;UNITY_IPHONE;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_UNITYEVENTS;ENABLE_NEW_HIERARCHY ;ENABLE_AUDIO_FMOD;ENABLE_MONO;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;INCLUDE_WP8SUPPORT;ENABLE_WWW;ENABLE_IMAGEEFFECTS;UNITY_IPHONE_API;ENABLE_4_6_FEATURES;INCLUDE_WP_BLUE_SUPPORT;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_2D_PHYSICS;ENABLE_GAMECENTER;UNITY_IOS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_OSX;ENABLE_DUCK_TYPING</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\API\Base\AttributeDrawer.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\API\Base\BaseDrawer.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\API\Base\CompositeDrawer.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\API\Base\ObjectDrawer.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\API\Core\BasicDrawers.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\API\Core\DelegateDrawer.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\API\Core\DictionaryDrawer.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\API\Core\MethodDrawer.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\API\Core\NullableDrawer.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\API\Core\RecursiveDrawer.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\API\Core\SequenceDrawer.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\API\MemberDrawersHandler.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\User\Constraints\ConstrainValueDrawers.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\User\Constraints\RegexAttributeDrawer.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\User\Decorates\CommentAttributeDrawer.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\User\Decorates\WhiteSpaceAttributeDrawer.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\User\Enums\EnumMaskAttributeDrawer.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\User\Filters\FilterDrawers.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\User\Others\AssignableAttributeDrawer.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\User\Others\ColorDuoDrawer.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\User\Others\DraggableAttributeDrawer.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\User\Others\InlineAttributeDrawer.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\User\Others\OnChangedAttributeDrawer.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\User\Others\PathAttributeDrawer.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\User\Others\ReadonlyAttributeDrawer.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\User\Others\ShowTypeAttributeDrawer.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\User\Others\SliderAttributeDrawers.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\User\Others\TextAreaAttributeDrawer.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\User\Popups\AnimVarAttributeDrawer.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\User\Popups\InputAxisAttributeDrawer.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\User\Popups\PopupAttributeDrawer.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\User\Popups\TagsAttributeDrawer.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\User\Randoms\RandomAttributesDrawers.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\User\Requirements\BaseRequirementAttributeDrawer.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\User\Requirements\RequiredAttributeDrawer.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\User\Requirements\RequiredFromChildrenAttributeDrawer.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\User\Requirements\RequiredFromParentsAttributeDrawer.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\User\Requirements\RequiredFromRelativeAttributeDrawer.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\User\Requirements\RequiredFromThisAttributeDrawer.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\User\Selections\SelectEnumAttributeDrawer.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\User\Selections\SelectObjAttributeDrawer.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\User\Selections\SelectSceneAttributeDrawer.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Drawers\User\Vectors\BetterVectorDrawer.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Editors\BaseEditor.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Editors\BetterBehaviourEditor.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Editors\BetterEditor.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Editors\BetterScriptableObjectEditor.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Editors\Internal\Definition Resolvers\BaseResolvers.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Editors\Internal\Definition Resolvers\CoreResolver.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Editors\Internal\Definition Resolvers\DefinitionResolvers.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Editors\Internal\Definition Resolvers\MembersResolvers.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Editors\Internal\Members Trunk\ICanBeDrawn.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Editors\Internal\Members Trunk\MemberCategory.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Editors\Internal\Members Trunk\MemberComparer.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Editors\Internal\Members Trunk\MemberGroup.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Editors\Internal\Members Trunk\VisibleMember.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Editors\TransformEditor.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Examples\DrawersInEditorWindowExample.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\GUIs\BaseGUI\BaseGUI.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\GUIs\BaseGUI\Controls\Bounds.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\GUIs\BaseGUI\Controls\Boxes.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\GUIs\BaseGUI\Controls\Buttons.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\GUIs\BaseGUI\Controls\Colors.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\GUIs\BaseGUI\Controls\DragDrop.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\GUIs\BaseGUI\Controls\Enums.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\GUIs\BaseGUI\Controls\Floats.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\GUIs\BaseGUI\Controls\Foldouts.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\GUIs\BaseGUI\Controls\Ints.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\GUIs\BaseGUI\Controls\Labels.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\GUIs\BaseGUI\Controls\Layers.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\GUIs\BaseGUI\Controls\Masks.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\GUIs\BaseGUI\Controls\Members.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\GUIs\BaseGUI\Controls\Objects.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\GUIs\BaseGUI\Controls\Popups.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\GUIs\BaseGUI\Controls\Quaternions.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\GUIs\BaseGUI\Controls\Rects.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\GUIs\BaseGUI\Controls\ScrollViews.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\GUIs\BaseGUI\Controls\Sliders.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\GUIs\BaseGUI\Controls\Spaces.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\GUIs\BaseGUI\Controls\Texts.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\GUIs\BaseGUI\Controls\Toggles.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\GUIs\BaseGUI\Controls\Vectors.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\GUIs\BaseGUI\Layout.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\GUIs\BaseGUI\Styles.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\GUIs\RabbitGUI\Blocks\GUIBlock.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\GUIs\RabbitGUI\Blocks\HorizontalBlock.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\GUIs\RabbitGUI\Blocks\Others.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\GUIs\RabbitGUI\Blocks\VerticalBlock.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\GUIs\RabbitGUI\GUIControl.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\GUIs\RabbitGUI\RabbitGUI.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\GUIs\TurtleGUI.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Others\Clipboard.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Others\EditorMember.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Others\GUIHelper.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Others\SelectionWindow.cs" />
+     <Compile Include="Assets\Plugins\Editor\Vexe\Windows\BetterWindow.cs" />
+     <None Include="Assets\Plugins\Editor\Vexe\LICENSE.txt" />
+     <None Include="Assets\Plugins\Vexe\HISTORY.txt" />
+     <None Include="Assets\Plugins\Vexe\LICENSE.txt" />
+     <None Include="Assets\Plugins\Vexe\Runtime\SaveSystem\doc.txt" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/4.6.0/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.UI">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/4.6.0/Editor/UnityEditor.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="EditorExtensions">
+ <HintPath>/Users/brenoazevedo/Desktop/DeskGroups/Unity 2D Demo/RickUphill/Assets/Plugins/Editor/Vexe/DLLs/EditorExtensions/EditorExtensions.dll</HintPath>
+ </Reference>
+ <Reference Include="EditorHelpers">
+ <HintPath>/Users/brenoazevedo/Desktop/DeskGroups/Unity 2D Demo/RickUphill/Assets/Plugins/Editor/Vexe/DLLs/EditorHelpers/EditorHelpers.dll</HintPath>
+ </Reference>
+ <Reference Include="Fasterflect">
+ <HintPath>/Users/brenoazevedo/Desktop/DeskGroups/Unity 2D Demo/RickUphill/Assets/Plugins/Vexe/DLLs/Fasterflect/Fasterflect.dll</HintPath>
+ </Reference>
+ <Reference Include="FullSerializer">
+ <HintPath>/Users/brenoazevedo/Desktop/DeskGroups/Unity 2D Demo/RickUphill/Assets/Plugins/Vexe/DLLs/FullSerializer/FullSerializer.dll</HintPath>
+ </Reference>
+ <Reference Include="RuntimeExtensions">
+ <HintPath>/Users/brenoazevedo/Desktop/DeskGroups/Unity 2D Demo/RickUphill/Assets/Plugins/Vexe/DLLs/Runtime/RuntimeExtensions/RuntimeExtensions.dll</HintPath>
+ </Reference>
+ <Reference Include="RuntimeHelpers">
+ <HintPath>/Users/brenoazevedo/Desktop/DeskGroups/Unity 2D Demo/RickUphill/Assets/Plugins/Vexe/DLLs/Runtime/RuntimeHelpers/RuntimeHelpers.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.Graphs">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.Graphs.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass-vs.csproj">
+      <Project>{5B7F9FB1-2346-9F07-8FCE-0F53F349AA88}</Project>      <Name>Assembly-CSharp-firstpass-vs</Name>    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

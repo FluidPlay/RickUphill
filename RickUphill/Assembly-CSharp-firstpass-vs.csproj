@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{5B7F9FB1-2346-9F07-8FCE-0F53F349AA88}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp-firstpass</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_4_6_0;UNITY_4_6;UNITY_IPHONE;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_UNITYEVENTS;ENABLE_NEW_HIERARCHY ;ENABLE_AUDIO_FMOD;ENABLE_MONO;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;INCLUDE_WP8SUPPORT;ENABLE_WWW;ENABLE_IMAGEEFFECTS;UNITY_IPHONE_API;ENABLE_4_6_FEATURES;INCLUDE_WP_BLUE_SUPPORT;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_2D_PHYSICS;ENABLE_GAMECENTER;UNITY_IOS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_OSX</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Examples\Scripts\Attributes\AnimVarExample.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Examples\Scripts\Attributes\AssignableExample.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Examples\Scripts\Attributes\BetterVectorExample.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Examples\Scripts\Attributes\CategoriesExample.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Examples\Scripts\Attributes\ConstraintsExample.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Examples\Scripts\Attributes\DecorationsExample.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Examples\Scripts\Attributes\DefaultValueExample.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Examples\Scripts\Attributes\DisplayOrderExample.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Examples\Scripts\Attributes\DraggableExample.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Examples\Scripts\Attributes\EnumsExample.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Examples\Scripts\Attributes\FiltersExample.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Examples\Scripts\Attributes\FormatsExample.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Examples\Scripts\Attributes\InlineExample.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Examples\Scripts\Attributes\OnChangedExample.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Examples\Scripts\Attributes\ParagraphExample.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Examples\Scripts\Attributes\PathExample.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Examples\Scripts\Attributes\PopupsExample.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Examples\Scripts\Attributes\RandomsExample.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Examples\Scripts\Attributes\ReadonlyExample.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Examples\Scripts\Attributes\RequirementsExample.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Examples\Scripts\Attributes\SelectionsExample.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Examples\Scripts\Attributes\SequencesExample.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Examples\Scripts\Attributes\ShowMethodExample.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Examples\Scripts\Attributes\ShowTypeExample.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Examples\Scripts\Attributes\SlidersExample.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Examples\Scripts\Delegates\DelegatesExample.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Examples\Scripts\Other\EventManagerExample.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Examples\Scripts\Other\GOInliner.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Examples\Scripts\Other\SceneTransition.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Examples\Scripts\ScriptableObjects\BSOExample.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Examples\Scripts\ScriptableObjects\BetterPrefsExample.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Examples\Scripts\Serialization\AbstractsExample.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Examples\Scripts\Serialization\GenericsExample.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Examples\Scripts\Serialization\InterfacesExample.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Examples\Scripts\Serialization\NullablesExample.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Examples\Scripts\Serialization\PropertiesExample.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Examples\Scripts\Serialization\ReadonlyFieldsExample.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Examples\Scripts\Serialization\Rules.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Examples\Scripts\Serialization\StaticsExample.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Examples\Scripts\Serialization\StructsExample.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Examples\Scripts\Serialization\UnityTypesExample.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\SaveSystem\CompressionHelper.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\SaveSystem\DestroyAlienComponentsOnLoad.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\SaveSystem\DestroyAlienGameObjectsOnLoad.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\SaveSystem\DestroyAlienObjectsOnLoad.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\SaveSystem\PrefabMarker.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\SaveSystem\SaveConverters.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\SaveSystem\SaveManager.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\SaveSystem\SaveMarker.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\SaveSystem\Store.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\SaveSystem\StoreManager.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\SaveSystem\UniqueId.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\SaveSystem\fsConverters.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Serialization\ISerializable.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Serialization\SerializationAttributes.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Serialization\SerializationData.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Serialization\SerializationLogic.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Serialization\Serializers\BetterSerializer.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Serialization\Serializers\UnityObjectConverter.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\API\DrawingAttributes.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\API\ExposureAttributes.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\API\SerializationAttributes.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\User\Categories\CategoryAttribute.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\User\Categories\DefineCategoriesAttribute.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\User\Categories\DefineCategoryAttribute.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\User\Categories\DisplayOrderAttribute.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\User\Categories\IgnoreCategoriesAttribute.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\User\Categories\ViewAttributes.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\User\Constraints\ConstrainValueAttribute.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\User\Constraints\IPAttribute.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\User\Constraints\MaxAttribute.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\User\Constraints\MinAttribute.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\User\Constraints\NumericClampAttribute.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\User\Constraints\RegexAttribute.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\User\Constraints\StringClampAttribute.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\User\Decorates\CommentAttribute.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\User\Decorates\WhiteSpaceAttribute.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\User\Enums\EnumMaskAttribute.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\User\Filters\FilterEnumAttribute.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\User\Filters\FilterTagsAttribute.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\User\Others\AdvancedAttribute.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\User\Others\AssignableAttribute.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\User\Others\DefaultAttribute.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\User\Others\DraggableAttribute.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\User\Others\InlineAttribute.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\User\Others\OnChangedAttribute.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\User\Others\ParagraphAttribute.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\User\Others\PathAttribute.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\User\Others\ReadonlyAttribute.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\User\Others\SeqOptionsAttribute.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\User\Others\ShowTypeAttribute.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\User\Others\SliderAttributes.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\User\Popups\AnimVarAttribute.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\User\Popups\InputAxisAttribute.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\User\Popups\PopupAttribute.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\User\Popups\TagsAttribute.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\User\Randoms\RandomAttributes.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\User\Requirements\RequirementAttributes.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\User\Selections\SelectEnumAttribute.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\User\Selections\SelectObjAttribute.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\User\Selections\SelectSceneAttribute.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Attributes\User\Vectors\BetterVectorAttribute.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Core\BetterBehaviour.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Core\BetterScriptableObject.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Delegates\BaseDelegate.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Delegates\DelegateSettings.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Delegates\uAction.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Delegates\uDelegate.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Delegates\uFunc.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Others\BetterAnimator.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Others\BetterPrefs.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Others\EventManager.cs" />
+     <Compile Include="Assets\Plugins\Vexe\Runtime\Types\Others\RuntimeMember.cs" />
+     <None Include="Assets\Plugins\Editor\Vexe\LICENSE.txt" />
+     <None Include="Assets\Plugins\Vexe\HISTORY.txt" />
+     <None Include="Assets\Plugins\Vexe\LICENSE.txt" />
+     <None Include="Assets\Plugins\Vexe\Runtime\SaveSystem\doc.txt" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/4.6.0/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="Fasterflect">
+ <HintPath>/Users/brenoazevedo/Desktop/DeskGroups/Unity 2D Demo/RickUphill/Assets/Plugins/Vexe/DLLs/Fasterflect/Fasterflect.dll</HintPath>
+ </Reference>
+ <Reference Include="FullSerializer">
+ <HintPath>/Users/brenoazevedo/Desktop/DeskGroups/Unity 2D Demo/RickUphill/Assets/Plugins/Vexe/DLLs/FullSerializer/FullSerializer.dll</HintPath>
+ </Reference>
+ <Reference Include="RuntimeExtensions">
+ <HintPath>/Users/brenoazevedo/Desktop/DeskGroups/Unity 2D Demo/RickUphill/Assets/Plugins/Vexe/DLLs/Runtime/RuntimeExtensions/RuntimeExtensions.dll</HintPath>
+ </Reference>
+ <Reference Include="RuntimeHelpers">
+ <HintPath>/Users/brenoazevedo/Desktop/DeskGroups/Unity 2D Demo/RickUphill/Assets/Plugins/Vexe/DLLs/Runtime/RuntimeHelpers/RuntimeHelpers.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>
