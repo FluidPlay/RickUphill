@@ -34,7 +34,7 @@ public class Game : MonoBehaviour
 
 	public void Death()
 	{
-		Lives--;
+		Lives = Lives - 1;
 		LivesUIText.text = Lives + "";
 		if (Lives <= 0 && !GameOver) {
 			StartCoroutine(GameOverActions());
