@@ -1,10 +1,12 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using System.Collections.Specialized;
+using NaughtyAttributes;
 using UnityEngine;
 
 public class RickController : MonoBehaviour
 {
+	[DisplayScriptableObjectProperties]
 	public PlayerStats Stats;
 	
 	private bool _groundCheck;

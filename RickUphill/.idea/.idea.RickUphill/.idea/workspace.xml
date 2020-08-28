@@ -1,276 +1,577 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93da8464-7401-4753-a1ca-b67a161d6afa" name="Default" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="93da8464-7401-4753-a1ca-b67a161d6afa" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RickUphill/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RickUphill/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RickUphill/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RickUphill/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RickUphill/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RickUphill/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor-firstpass.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor-firstpass.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-firstpass.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-firstpass.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EzFSM.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EzFSM/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EzFSM/Editor/EzFSMEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EzFSM/Editor/EzFSMEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EzFSM/Editor/Resources.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EzFSM/Editor/Resources/FSMLabelSkin.guiskin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EzFSM/Editor/Resources/FSMLabelSkin.guiskin.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EzFSM/EzFSM.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EzFSM/EzFSM.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/rickdangerous-minimalspritesheet.psd.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/rickdangerous-minimalspritesheet.psd.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlayerStats.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PlayerStats.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/API.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/API/Base.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/API/Base/AttributeDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/API/Base/AttributeDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/API/Base/BaseDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/API/Base/BaseDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/API/Base/CompositeDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/API/Base/CompositeDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/API/Base/ObjectDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/API/Base/ObjectDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/API/Core.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/API/Core/BasicDrawers.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/API/Core/BasicDrawers.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/API/Core/DictionaryDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/API/Core/DictionaryDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/API/Core/MethodDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/API/Core/MethodDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/API/Core/NullableDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/API/Core/NullableDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/API/Core/RecursiveDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/API/Core/RecursiveDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/API/Core/SequenceDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/API/Core/SequenceDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/API/MemberDrawersHandler.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/API/MemberDrawersHandler.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/API/TypeDrawerMapper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/API/TypeDrawerMapper.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/AnimVarDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/AnimVarDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/AssignableDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/AssignableDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/BetterVectorDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/BetterVectorDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/ButtonDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/ButtonDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/CommentDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/CommentDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/ConstrainValueDrawers.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/ConstrainValueDrawers.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/DraggableDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/DraggableDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/EnumMaskDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/EnumMaskDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/FilterDrawers.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/FilterDrawers.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/InlineDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/InlineDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/InputAxisDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/InputAxisDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/OnChangedDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/OnChangedDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/ParagraphDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/ParagraphDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/PathDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/PathDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/PopupDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/PopupDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/RandomsDrawers.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/RandomsDrawers.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/RegexDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/RegexDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/ResourcePathDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/ResourcePathDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/SelectEnumDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/SelectEnumDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/SelectSceneDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/SelectSceneDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/ShowTypeDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/ShowTypeDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/SliderDrawers.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/SliderDrawers.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/TagsDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/TagsDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/WhiteSpaceDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/User/WhiteSpaceDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Editors.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Editors/BaseBehaviourEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Editors/BaseBehaviourEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Editors/BaseEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Editors/BaseEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Editors/BaseScriptableObjectEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Editors/BaseScriptableObjectEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Editors/Internal.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Editors/Internal/CategoryDefinitionResolver.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Editors/Internal/CategoryDefinitionResolver.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Editors/Internal/ConditionalVisibility.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Editors/Internal/ConditionalVisibility.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Editors/Internal/MembersCategory.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Editors/Internal/MembersCategory.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/BaseGUI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/BaseGUI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Bounds.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Bounds.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Boxes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Boxes.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Buttons.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Buttons.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Colors.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Colors.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Curves.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Curves.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Doubles.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Doubles.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/DragDrop.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/DragDrop.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Enums.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Enums.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Floats.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Floats.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Foldouts.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Foldouts.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Gradients.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Gradients.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Ints.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Ints.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Labels.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Labels.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Layers.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Layers.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Longs.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Longs.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Masks.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Masks.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Members.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Members.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Objects.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Objects.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Popups.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Popups.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Quaternions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Quaternions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Rects.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Rects.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/ScrollViews.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/ScrollViews.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Sliders.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Sliders.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Spaces.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Spaces.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Texts.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Texts.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Toggles.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Toggles.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Vectors.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Controls/Vectors.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/GUIStyles.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/GUIStyles.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Layout.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/BaseGUI/Layout.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/RabbitGUI.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/RabbitGUI/Blocks.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/RabbitGUI/Blocks/GUIBlock.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/RabbitGUI/Blocks/GUIBlock.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/RabbitGUI/Blocks/HorizontalBlock.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/RabbitGUI/Blocks/HorizontalBlock.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/RabbitGUI/Blocks/Others.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/RabbitGUI/Blocks/Others.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/RabbitGUI/Blocks/VerticalBlock.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/RabbitGUI/Blocks/VerticalBlock.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/RabbitGUI/GUIControl.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/RabbitGUI/GUIControl.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/RabbitGUI/RabbitGUI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/RabbitGUI/RabbitGUI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/TurtleGUI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/GUIs/TurtleGUI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/LICENSE.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Libs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Libs/Extensions.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Libs/Extensions/EventExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Libs/Extensions/EventExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Libs/Helpers.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Libs/Helpers/DirectoryHelper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Libs/Helpers/DirectoryHelper.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Libs/Helpers/EditorHelper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Libs/Helpers/EditorHelper.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Libs/Helpers/GUIHelper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Libs/Helpers/GUIHelper.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Libs/Helpers/PrefabHelper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Libs/Helpers/PrefabHelper.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Types.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Types/BetterUndo.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Types/BetterUndo/BetterUndo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Types/BetterUndo/BetterUndo.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Types/BetterUndo/Operations.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Types/BetterUndo/Operations/BasicOp.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Types/BetterUndo/Operations/BasicOp.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Types/BetterUndo/Operations/IUndoOp.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Types/BetterUndo/Operations/IUndoOp.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Types/BetterUndo/Operations/ListOps.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Types/BetterUndo/Operations/ListOps.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Types/BetterUndo/Operations/SelectionOp.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Types/BetterUndo/Operations/SelectionOp.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Types/BetterUndo/Operations/SetVarOp.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Types/BetterUndo/Operations/SetVarOp.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Types/EditorMember.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Types/EditorMember.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Types/SelectionMemorizer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Types/SelectionMemorizer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Types/VFWSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Types/VFWSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Visibility.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Visibility/VisibilityAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Visibility/VisibilityAttributes.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Visibility/VisibilityLogic.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Visibility/VisibilityLogic.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Windows.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Windows/BetterWindow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Windows/BetterWindow.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Windows/SelectionWindow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Windows/SelectionWindow.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/HISTORY.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/HISTORY.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/LICENSE.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Core.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Core/FSCommon.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Core/FSCommon.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Core/Load.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Core/Load.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Core/Save.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Core/Save.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Other.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Other/FSAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Other/FSAttributes.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Other/FSExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Other/FSExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Other/FSMarker.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Other/FSMarker.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Other/FSReference.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Other/FSReference.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/README.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Resources.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Resources/AssetStorage.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Resources/AssetStorage.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Resources/PrefabStorage.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Resources/PrefabStorage.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializer.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializer/BasicSerializer.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializer/BasicSerializer.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializer/BinaryX20.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializer/BinaryX20/BinaryX20.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializer/BinaryX20/BinaryX20.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializer/BinaryX20/Internal.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializer/BinaryX20/Internal/X20Logic.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializer/BinaryX20/Internal/X20Logic.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializer/BinaryX20/Internal/X20Member.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializer/BinaryX20/Internal/X20Member.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializer/BinaryX20/Internal/X20Reflection.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializer/BinaryX20/Internal/X20Reflection.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializer/BinaryX20/Serializers.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializer/BinaryX20/Serializers/ArraySerializer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializer/BinaryX20/Serializers/ArraySerializer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializer/BinaryX20/Serializers/BaseSerializer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializer/BinaryX20/Serializers/BaseSerializer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializer/BinaryX20/Serializers/CollectionSerializer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializer/BinaryX20/Serializers/CollectionSerializer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializer/BinaryX20/Serializers/DictionarySerializer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializer/BinaryX20/Serializers/DictionarySerializer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializer/BinaryX20/Serializers/EnumSerializer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializer/BinaryX20/Serializers/EnumSerializer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializer/BinaryX20/Serializers/ListSerializer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializer/BinaryX20/Serializers/ListSerializer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializer/BinaryX20/Serializers/PrimitiveSerializer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializer/BinaryX20/Serializers/PrimitiveSerializer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializer/BinaryX20/Serializers/ReflectiveSerializer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializer/BinaryX20/Serializers/ReflectiveSerializer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializer/BinaryX20/Serializers/StrongSerializer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializer/BinaryX20/Serializers/StrongSerializer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializer/BinaryX20/Serializers/TypeSerializer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializer/BinaryX20/Serializers/TypeSerializer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializer/BinaryX20/Serializers/UnityStructs.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializer/BinaryX20/Serializers/UnityStructs.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializers.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializers/AnimationSerializer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializers/AnimationSerializer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializers/AssetReferenceSerializer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializers/AssetReferenceSerializer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializers/ExplicitComponentSerializer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializers/ExplicitComponentSerializer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializers/GameObjectSerializer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializers/GameObjectSerializer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializers/LightSerializer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializers/LightSerializer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializers/ReflectiveComponentSerializer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializers/ReflectiveComponentSerializer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Storage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Storage/AssetStorage.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Storage/AssetStorage.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Storage/PrefabStorage.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Storage/PrefabStorage.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions/AnimatorExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions/AnimatorExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions/ComponentExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions/ComponentExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions/DelegateExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions/DelegateExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions/FastReflection.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions/FastReflection.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions/Flags.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions/Flags.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions/GameObjectExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions/GameObjectExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions/GenericEnumerableExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions/GenericEnumerableExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions/LayerMaskExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions/LayerMaskExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions/MemberInfoExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions/MemberInfoExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions/MethodInfoExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions/MethodInfoExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions/OtherExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions/OtherExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions/PropertyInfoExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions/PropertyInfoExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions/RendererExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions/RendererExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions/RigidbodyExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions/RigidbodyExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions/StringExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions/StringExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions/SystemObjectExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions/SystemObjectExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions/TransformExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions/TransformExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions/TypeExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions/TypeExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions/UnityObjectExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions/UnityObjectExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions/VectorExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions/VectorExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Helpers.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Helpers/ErrorHelper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Helpers/ErrorHelper.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Helpers/EventsHelper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Helpers/EventsHelper.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Helpers/GizHelper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Helpers/GizHelper.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Helpers/ReflectionHelper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Helpers/ReflectionHelper.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Helpers/RuntimeHelper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Helpers/RuntimeHelper.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/API.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/API/Categories.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/API/Categories/CategoryAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/API/Categories/CategoryAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/API/Categories/CategoryDisplay.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/API/Categories/CategoryDisplay.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/API/Categories/CategoryMemberType.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/API/Categories/CategoryMemberType.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/API/Categories/CategorySetOp.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/API/Categories/CategorySetOp.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/API/Categories/DefineCategoriesAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/API/Categories/DefineCategoriesAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/API/Categories/DefineCategoryAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/API/Categories/DefineCategoryAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/API/DisplayAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/API/DisplayAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/API/DrawingAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/API/DrawingAttributes.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/API/UsingAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/API/UsingAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/API/VisibilityAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/API/VisibilityAttributes.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/AnimVarAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/AnimVarAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/AssignableAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/AssignableAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/BetterVectorAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/BetterVectorAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/ButtonAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/ButtonAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/ClampAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/ClampAttributes.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/CommentAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/CommentAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/ConstrainValueAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/ConstrainValueAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/DraggableAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/DraggableAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/EnumMaskAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/EnumMaskAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/FilterEnumAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/FilterEnumAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/FilterTagsAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/FilterTagsAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/IPAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/IPAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/InlineAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/InlineAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/InputAxisAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/InputAxisAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/MaxAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/MaxAttributes.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/MinAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/MinAttributes.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/OnChangedAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/OnChangedAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/ParagraphAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/ParagraphAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/PathAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/PathAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/PopupAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/PopupAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/RandAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/RandAttributes.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/RegexAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/RegexAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/ResourcePathAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/ResourcePathAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/SelectEnumAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/SelectEnumAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/SelectSceneAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/SelectSceneAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/ShowTypeAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/ShowTypeAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/SliderAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/SliderAttributes.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/TagsAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/TagsAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/WhiteSpaceAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Attributes/User/WhiteSpaceAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Core.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Core/BaseBehaviour.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Core/BaseBehaviour.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Core/BaseScriptableObject.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Core/BaseScriptableObject.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Others.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Others/DataRecord.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Others/DataRecord.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Others/ItemTuple.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Others/ItemTuple.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Others/KVPList.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Others/KVPList.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Others/SerializableDictionary.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Types/Others/SerializableDictionary.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Game.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Game.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/RickController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/RickController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/EditorUserSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll.mdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll.mdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll.mdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.dll.mdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll.mdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptMapper" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptMapper" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/expandedItems" beforeDir="false" afterPath="$PROJECT_DIR$/Library/expandedItems" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RickUphill.sln" beforeDir="false" afterPath="$PROJECT_DIR$/RickUphill.sln" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="256789776">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="cs" value="1082" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="C#" value="1082" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open" />
-      <usages-collector id="statistics.vcs.git.usages" />
-      <usages-collector id="statistics.file.types.open" />
-      <usages-collector id="statistics.js.language.service.starts" />
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/EzFSM/Editor/EzFSMEditor.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-              <folding>
-                <marker date="1534976522713" expanded="false" signature="6:37" ph="..." />
-                <marker date="1534976522713" expanded="true" signature="73:635" ph="{...}" />
-                <marker date="1534976522713" expanded="true" signature="291:633" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/EzFSM/EzFSM.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="6" column="54" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
-              <folding>
-                <marker date="1534976657110" expanded="false" signature="6:111" ph="..." />
-                <marker date="1534976657110" expanded="true" signature="148:2882" ph="{...}" />
-                <marker date="1534976657110" expanded="true" signature="483:634" ph="{...}" />
-                <marker date="1534976657110" expanded="true" signature="518:630" ph="{...}" />
-                <marker date="1534976657110" expanded="true" signature="735:886" ph="{...}" />
-                <marker date="1534976657110" expanded="true" signature="744:851" ph="{...}" />
-                <marker date="1534976657110" expanded="true" signature="1053:1094" ph="{...}" />
-                <marker date="1534976657110" expanded="true" signature="1114:1165" ph="{...}" />
-                <marker date="1534976657110" expanded="true" signature="1188:1249" ph="{...}" />
-                <marker date="1534976657110" expanded="true" signature="1299:1489" ph="{...}" />
-                <marker date="1534976657110" expanded="true" signature="1628:1805" ph="{...}" />
-                <marker date="1534976657110" expanded="true" signature="1715:1784" ph="{...}" />
-                <marker date="1534976657110" expanded="true" signature="1925:2175" ph="{...}" />
-                <marker date="1534976657110" expanded="true" signature="2213:2461" ph="{...}" />
-                <marker date="1534976657110" expanded="true" signature="2236:2428" ph="{...}" />
-                <marker date="1534976657110" expanded="true" signature="2555:2645" ph="{...}" />
-                <marker date="1534976657110" expanded="true" signature="2647:2879" ph="/* ===== ... */" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Script/RickController.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
-              <folding>
-                <marker date="1539825937969" expanded="false" signature="6:116" ph="..." />
-                <marker date="1539825937969" expanded="true" signature="161:2822" ph="{...}" />
-                <marker date="1539825937969" expanded="true" signature="614:885" ph="{...}" />
-                <marker date="1539825937969" expanded="true" signature="939:1328" ph="{...}" />
-                <marker date="1539825937969" expanded="true" signature="1047:1155" ph="{...}" />
-                <marker date="1539825937969" expanded="true" signature="1164:1281" ph="{...}" />
-                <marker date="1539825937969" expanded="true" signature="1365:1834" ph="{...}" />
-                <marker date="1539825937969" expanded="true" signature="1891:2138" ph="{...}" />
-                <marker date="1539825937969" expanded="true" signature="1948:2124" ph="{...}" />
-                <marker date="1539825937969" expanded="true" signature="2045:2109" ph="{...}" />
-                <marker date="1539825937969" expanded="true" signature="2155:2244" ph="{...}" />
-                <marker date="1539825937969" expanded="true" signature="2266:2434" ph="{...}" />
-                <marker date="1539825937969" expanded="true" signature="2477:2534" ph="{...}" />
-                <marker date="1539825937969" expanded="true" signature="2567:2819" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/ScriptableHelper/UnitData.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="61" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
-              <folding>
-                <marker date="1538614285297" expanded="true" signature="61:359" ph="{...}" />
-                <marker date="1538614285297" expanded="true" signature="147:197" ph="{...}" />
-                <marker date="1538614285297" expanded="true" signature="224:356" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/ScriptableHelper/AccessScriptableData.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-              <folding>
-                <marker date="1418590137000" expanded="false" signature="6:44" ph="..." />
-                <marker date="1418590137000" expanded="true" signature="96:596" ph="{...}" />
-                <marker date="1418590137000" expanded="true" signature="160:593" ph="{...}" />
-                <marker date="1418590137000" expanded="true" signature="289:414" ph="/* Criar instancia em memória; O 1o. não funciona para scriptable Object, usar formato abaixo: ... */" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Script/PlayerStats.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <marker date="1539825563425" expanded="false" signature="6:78" ph="..." />
-                <marker date="1539825563425" expanded="true" signature="124:460" ph="{...}" />
-                <marker date="1539825563425" expanded="true" signature="408:458" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Script/Game.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="39" column="38" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
-              <folding>
-                <marker date="1539822447499" expanded="false" signature="6:149" ph="..." />
-                <marker date="1539822447499" expanded="true" signature="184:1256" ph="{...}" />
-                <marker date="1539822447499" expanded="true" signature="567:609" ph="{...}" />
-                <marker date="1539822447499" expanded="true" signature="634:684" ph="{...}" />
-                <marker date="1539822447499" expanded="true" signature="706:831" ph="{...}" />
-                <marker date="1539822447499" expanded="true" signature="785:828" ph="{...}" />
-                <marker date="1539822447499" expanded="true" signature="863:1254" ph="{...}" />
-                <marker date="1539822447499" expanded="true" signature="1194:1221" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/RockSpawner.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="45" column="64" selection-start-line="45" selection-end-line="45" selection-end-column="64" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>BetterBehaviour</find>
-      <find>_rockLayer</find>
-    </findStrings>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializers/ReflectiveComponentSerializer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/RockSpawner.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/RickController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/GroundScroller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/3rdParty/EzFSM/EzFSM.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/3rdParty/DisplayScriptableObjectPropertyAttribute.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/PlayerStats.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/RickController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/78AFCDD7-A608-4612-8C49-45F03EB135B8/2c/02225372/MemberInfo.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Game.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/EzFSM/EzFSM.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ScriptableHelper/AccessScriptableData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/API/MemberDrawersHandler.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/EzFSM/Editor/EzFSMEditor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Drawers/API/TypeDrawerMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/GroundScroller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/3rdParty/Editor/DisplayScriptableObjectPropertyDrawer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/RockSpawner.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ScriptableHelper/UnitData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ScriptableHelper/AccessScriptableData.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/EzFSM/EzFSM.cs" />
         <option value="$PROJECT_DIR$/Assets/RockSpawner.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/GroundScroller.cs" />
         <option value="$PROJECT_DIR$/Assets/ScriptableHelper/UnitData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/Game.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/PlayerStats.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Core/FSCommon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/FastSave/Serializer/BinaryX20/Internal/X20Reflection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Vexe/Runtime/Libs/Extensions/TypeExtensions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Editor/Vexe/Editors/Internal/CategoryDefinitionResolver.cs" />
+        <option value="$PROJECT_DIR$/Assets/EzFSM/EzFSM.cs" />
+        <option value="$PROJECT_DIR$/Assets/3rdParty/EzFSM/EzFSM.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/RickController.cs" />
+        <option value="$PROJECT_DIR$/Assets/3rdParty/Editor/DisplayScriptableObjectPropertyDrawer.cs" />
+        <option value="$PROJECT_DIR$/Assets/3rdParty/DisplayScriptableObjectPropertyAttribute.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Game.cs" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-12" />
-    <option name="width" value="1905" />
-    <option name="height" value="1002" />
-  </component>
-  <component name="ProjectView">
-    <navigator currentView="UnityExplorer" proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
-      <pane id="FileSystemExplorer" />
-      <pane id="UnityExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Project" type="e068e287:UnityExplorerRootNode" />
-              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
-            </path>
-            <path>
-              <item name="Project" type="e068e287:UnityExplorerRootNode" />
-              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
-              <item name="Script" type="1045f7f1:UnityExplorerNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-        <option name="show-hidden-items" value="false" />
-      </pane>
-    </panes>
+  <component name="ProjectId" id="1ghOFmIA6p2u4zOIZgV7Wn8XTee" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="TWShift.3" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
       <method v="2" />
     </configuration>
     <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
       <method v="2" />
@@ -295,58 +596,20 @@
       <workItem from="1537398910588" duration="3998000" />
       <workItem from="1538608698373" duration="5654000" />
       <workItem from="1539819794887" duration="5071000" />
+      <workItem from="1598563266098" duration="5443000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17577000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1270" height="668" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14793389" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.68172044" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="NuGet" order="7" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unity" order="9" />
-      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unit Tests" order="11" />
-      <window_info anchor="bottom" id="Terminal" order="12" />
-      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
-      <window_info anchor="right" id="Unit Tests Coverage" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Errors In Solution" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
-  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state x="671" y="293" width="705" height="536" key="find.popup" timestamp="1598567060985">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="671" y="293" width="705" height="536" key="find.popup/0.0.2048.1122@0.0.2048.1122" timestamp="1598567060985" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -357,143 +620,5 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/EzFSM/Editor/EzFSMEditor.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-          <folding>
-            <marker date="1534976522713" expanded="false" signature="6:37" ph="..." />
-            <marker date="1534976522713" expanded="true" signature="73:635" ph="{...}" />
-            <marker date="1534976522713" expanded="true" signature="291:633" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/ScriptableHelper/AccessScriptableData.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-          <folding>
-            <marker date="1418590137000" expanded="false" signature="6:44" ph="..." />
-            <marker date="1418590137000" expanded="true" signature="96:596" ph="{...}" />
-            <marker date="1418590137000" expanded="true" signature="160:593" ph="{...}" />
-            <marker date="1418590137000" expanded="true" signature="289:414" ph="/* Criar instancia em memória; O 1o. não funciona para scriptable Object, usar formato abaixo: ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/RockSpawner.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" column="64" selection-start-line="45" selection-end-line="45" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/ScriptableHelper/UnitData.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="61" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
-          <folding>
-            <marker date="1538614285297" expanded="true" signature="61:359" ph="{...}" />
-            <marker date="1538614285297" expanded="true" signature="147:197" ph="{...}" />
-            <marker date="1538614285297" expanded="true" signature="224:356" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/GroundScroller.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
-          <folding>
-            <marker date="1538612006284" expanded="false" signature="6:78" ph="..." />
-            <marker date="1538612006284" expanded="true" signature="124:595" ph="{...}" />
-            <marker date="1538612006284" expanded="true" signature="224:264" ph="{...}" />
-            <marker date="1538612006284" expanded="true" signature="318:530" ph="{...}" />
-            <marker date="1538612006284" expanded="true" signature="553:593" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/EzFSM/EzFSM.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="6" column="54" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
-          <folding>
-            <marker date="1534976657110" expanded="false" signature="6:111" ph="..." />
-            <marker date="1534976657110" expanded="true" signature="148:2882" ph="{...}" />
-            <marker date="1534976657110" expanded="true" signature="483:634" ph="{...}" />
-            <marker date="1534976657110" expanded="true" signature="518:630" ph="{...}" />
-            <marker date="1534976657110" expanded="true" signature="735:886" ph="{...}" />
-            <marker date="1534976657110" expanded="true" signature="744:851" ph="{...}" />
-            <marker date="1534976657110" expanded="true" signature="1053:1094" ph="{...}" />
-            <marker date="1534976657110" expanded="true" signature="1114:1165" ph="{...}" />
-            <marker date="1534976657110" expanded="true" signature="1188:1249" ph="{...}" />
-            <marker date="1534976657110" expanded="true" signature="1299:1489" ph="{...}" />
-            <marker date="1534976657110" expanded="true" signature="1628:1805" ph="{...}" />
-            <marker date="1534976657110" expanded="true" signature="1715:1784" ph="{...}" />
-            <marker date="1534976657110" expanded="true" signature="1925:2175" ph="{...}" />
-            <marker date="1534976657110" expanded="true" signature="2213:2461" ph="{...}" />
-            <marker date="1534976657110" expanded="true" signature="2236:2428" ph="{...}" />
-            <marker date="1534976657110" expanded="true" signature="2555:2645" ph="{...}" />
-            <marker date="1534976657110" expanded="true" signature="2647:2879" ph="/* ===== ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/Game.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="39" column="38" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
-          <folding>
-            <marker date="1539822447499" expanded="false" signature="6:149" ph="..." />
-            <marker date="1539822447499" expanded="true" signature="184:1256" ph="{...}" />
-            <marker date="1539822447499" expanded="true" signature="567:609" ph="{...}" />
-            <marker date="1539822447499" expanded="true" signature="634:684" ph="{...}" />
-            <marker date="1539822447499" expanded="true" signature="706:831" ph="{...}" />
-            <marker date="1539822447499" expanded="true" signature="785:828" ph="{...}" />
-            <marker date="1539822447499" expanded="true" signature="863:1254" ph="{...}" />
-            <marker date="1539822447499" expanded="true" signature="1194:1221" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/PlayerStats.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <marker date="1539825563425" expanded="false" signature="6:78" ph="..." />
-            <marker date="1539825563425" expanded="true" signature="124:460" ph="{...}" />
-            <marker date="1539825563425" expanded="true" signature="408:458" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/RickController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
-          <folding>
-            <marker date="1539825937969" expanded="false" signature="6:116" ph="..." />
-            <marker date="1539825937969" expanded="true" signature="161:2822" ph="{...}" />
-            <marker date="1539825937969" expanded="true" signature="614:885" ph="{...}" />
-            <marker date="1539825937969" expanded="true" signature="939:1328" ph="{...}" />
-            <marker date="1539825937969" expanded="true" signature="1047:1155" ph="{...}" />
-            <marker date="1539825937969" expanded="true" signature="1164:1281" ph="{...}" />
-            <marker date="1539825937969" expanded="true" signature="1365:1834" ph="{...}" />
-            <marker date="1539825937969" expanded="true" signature="1891:2138" ph="{...}" />
-            <marker date="1539825937969" expanded="true" signature="1948:2124" ph="{...}" />
-            <marker date="1539825937969" expanded="true" signature="2045:2109" ph="{...}" />
-            <marker date="1539825937969" expanded="true" signature="2155:2244" ph="{...}" />
-            <marker date="1539825937969" expanded="true" signature="2266:2434" ph="{...}" />
-            <marker date="1539825937969" expanded="true" signature="2477:2534" ph="{...}" />
-            <marker date="1539825937969" expanded="true" signature="2567:2819" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
